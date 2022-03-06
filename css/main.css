@@ -87,6 +87,7 @@ header div ul li a {
 
 .main_visual .mv_t { 
     width: 100%;
+    height: 80%;
     position: absolute;
     top: 50%;
     left: 0;
@@ -113,7 +114,7 @@ header div ul li a {
 .profile {
     max-width: 1024px;
     width: calc(100% - 30px);
-    margin: 150px auto 0;
+    margin: 250px auto 0;
     display: flex; 
     justify-content: space-between; 
 }
@@ -292,6 +293,9 @@ header div ul li a {
 
 .v2 {
     background-color: #faf1f1 /* FAF3F3, ECCFD1, F6ECF0, F6E1E1, FEF6FB rgba(241, 241, 241, 0.603); */
+}
+.v4 {
+    background-color:#f7fff6 /* FAF3F3, ECCFD1, F6ECF0, F6E1E1, FEF6FB rgba(241, 241, 241, 0.603); */
 }
 
 
